@@ -1,2 +1,2 @@
 # rolimons-target-finder
-just a simple code
+just a simple code. works and yeah
